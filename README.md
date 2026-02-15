@@ -60,6 +60,5 @@ Freezed immutables · 95%+ test coverage goal · CI/CD with GitHub Actions
 
 <div align="center">
 
-*Currently pivoting from freelance to product — building the tools I wish existed.*
 
 </div>
